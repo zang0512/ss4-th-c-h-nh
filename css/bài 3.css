@@ -1,0 +1,48 @@
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 16px;
+
+}
+  
+label {
+    flex-direction: column;
+    font-weight: bold;
+}
+
+form {
+    margin: 20px;
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    display: block;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button {
+    border: 1px solid black;
+    width: 100%;
+    background-color: aquamarine;
+    font-weight: bold;
+    
+}
+
+textarea {
+    width: 100%;
+}
